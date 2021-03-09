@@ -32,7 +32,7 @@ namespace Paup2021_Vjezbe.Controllers
         public ActionResult Student()
         {
             ViewBag.Ime = "Anella";
-            ViewBag.Prezime = "Rogic Slogar";
+            ViewBag.Prezime = "Slogar";
             ViewBag.GodinaRodjenja = 2001;
 
             return View();
